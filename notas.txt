@@ -1,0 +1,4 @@
+ana,8.5
+lucas,5.0
+maria,9.5
+jao, 4.5
