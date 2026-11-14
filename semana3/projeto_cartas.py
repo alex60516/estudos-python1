@@ -6,7 +6,7 @@ print(tabela)
 
 print(tabela["custo"].mean())
 
-print(tabela[tabela ["custo"] >= 4])
+print(tabela[tabela["custo"] >= 4])
 
 print(tabela.groupby("tipo")["custo"].mean())
 
