@@ -21,7 +21,7 @@ plt.show()
 
 contagem.plot(kind="bar")
 plt.title("cartas por raridade")
-plt.ylabel("")
+plt.ylabel("quantidades de cartas")
 plt.show()
 
 
